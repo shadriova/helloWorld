@@ -1,0 +1,51 @@
+h1{
+    color: rgb(252, 6, 137);
+    font-family: 'TT Firs Neue Trl';
+    text-align: center;
+    position: relative;
+    font-size: 40px;
+    border: solid rgb(117, 25, 77);
+}
+
+body{
+    background-color: black;
+}
+
+#ruzik-img{
+    width: 400px;
+    border: solid 5px;
+    border-radius: 20px;
+    border-color: rgb(155, 198, 237);
+}
+
+#ruz_di-img{
+    width: 450px;
+    position: relative;
+    left: 550px;
+    bottom: 100px;
+    border: solid 6px rgb(226, 148, 200);
+}
+
+#first{
+    color: rgb(245, 234, 243);
+    font-family: 'TT Firs Neue Trl';
+    position: relative;
+    bottom: 675px;
+    left: 425px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 500px;
+    text-align: justify;
+}
+
+#second{
+    color: rgb(245, 234, 243);
+    font-family: 'TT Firs Neue Trl';
+    position: relative;
+    left: 425px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 500px;
+    text-align: justify;
+    bottom: 635px;
+}
